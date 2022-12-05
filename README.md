@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Nandrajog</h1>
-<h3 align="center">Computer Science Student with aspiring developer</h3>
+<h3 align="center">A Third Year Computer Science Student with Aspiring Developer</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
